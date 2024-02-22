@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/dustbin/dustbin.egg-info
+writing ../../build/dustbin/dustbin.egg-info/PKG-INFO
+writing dependency_links to ../../build/dustbin/dustbin.egg-info/dependency_links.txt
+writing requirements to ../../build/dustbin/dustbin.egg-info/requires.txt
+writing top-level names to ../../build/dustbin/dustbin.egg-info/top_level.txt
+writing manifest file '../../build/dustbin/dustbin.egg-info/SOURCES.txt'
+reading manifest file '../../build/dustbin/dustbin.egg-info/SOURCES.txt'
+writing manifest file '../../build/dustbin/dustbin.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/akash/Desktop/ros2/workspace/build/dustbin/build
+creating /home/akash/Desktop/ros2/workspace/build/dustbin/build/lib
+creating /home/akash/Desktop/ros2/workspace/build/dustbin/build/lib/dustbin
+copying dustbin/__init__.py -> /home/akash/Desktop/ros2/workspace/build/dustbin/build/lib/dustbin
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/akash/Desktop/ros2/workspace/install/dustbin/lib/python3.11/site-packages/dustbin
+copying /home/akash/Desktop/ros2/workspace/build/dustbin/build/lib/dustbin/__init__.py -> /home/akash/Desktop/ros2/workspace/install/dustbin/lib/python3.11/site-packages/dustbin
+byte-compiling /home/akash/Desktop/ros2/workspace/install/dustbin/lib/python3.11/site-packages/dustbin/__init__.py to __init__.cpython-311.pyc
+running install_data
+creating /home/akash/Desktop/ros2/workspace/install/dustbin/share/ament_index
+creating /home/akash/Desktop/ros2/workspace/install/dustbin/share/ament_index/resource_index
+creating /home/akash/Desktop/ros2/workspace/install/dustbin/share/ament_index/resource_index/packages
+copying resource/dustbin -> /home/akash/Desktop/ros2/workspace/install/dustbin/share/ament_index/resource_index/packages
+copying package.xml -> /home/akash/Desktop/ros2/workspace/install/dustbin/share/dustbin
+running install_egg_info
+Copying ../../build/dustbin/dustbin.egg-info to /home/akash/Desktop/ros2/workspace/install/dustbin/lib/python3.11/site-packages/dustbin-0.0.0-py3.11.egg-info
+running install_scripts
+writing list of installed files to '/home/akash/Desktop/ros2/workspace/build/dustbin/install.log'

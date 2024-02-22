@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/dustbin/dustbin.egg-info/PKG-INFO
+../../build/dustbin/dustbin.egg-info/SOURCES.txt
+../../build/dustbin/dustbin.egg-info/dependency_links.txt
+../../build/dustbin/dustbin.egg-info/requires.txt
+../../build/dustbin/dustbin.egg-info/top_level.txt
+../../build/dustbin/dustbin.egg-info/zip-safe
+dustbin/__init__.py
+resource/dustbin
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

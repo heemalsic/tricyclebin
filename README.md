@@ -1,1 +1,3 @@
 # tricyclebin
+
+A centralized system of Smart Bins that automatically sanitizes, segregates, and disposes waste at the ground level to eliminate any kind of human intervention. The bin classifies waste with the utilization of metal detector, image classification model and humidity sensor which are structured in a way to achieve highly efficient waste segregation. The respective waste is thrown in the dustbin’s sub-compartment namely Biodegradable, Non Biodegradable, Metallic and Unclassified. The bin classifies waste with the utilization of sensor fusion which are structured in a way to achieve low-cost highly efficient waste segregation
